@@ -3,9 +3,8 @@
 	[
 	],
 
-	"show_line_endings_on_status_bar": true,
-  "show_encoding": true,
-
+	"show_line_endings": true,
+	"show_encoding": true,
 
 
 	"font_size": 14
